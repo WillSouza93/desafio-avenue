@@ -1,22 +1,14 @@
 {
-  "name": "desafio-avenue",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WillSouza93/desafio-avenue.git"
+    "test": "cypress open" 
   },
   "keywords": [],
-  "author": "Willian Souza",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/WillSouza93/desafio-avenue/issues"
-  },
-  "homepage": "https://github.com/WillSouza93/desafio-avenue#readme",
   "devDependencies": {
     "cypress": "^10.6.0"
   }
