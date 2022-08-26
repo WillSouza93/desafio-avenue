@@ -20,7 +20,7 @@ $ git clone https://github.com/WillSouza93/desafio-avenue.git
 ```sh
 $ npm install
 ```
-**OBS:** Para obter o guia completo de instalação e comandos do cypres, acesse: https://docs.cypress.io/guides/getting-started/installing-cypress#What-you-ll-learn
+**OBS:** Para obter o guia completo de instalação e comandos do cypress, acesse: https://docs.cypress.io/guides/getting-started/installing-cypress#What-you-ll-learn
 
 ## Executando os testes:
 
